@@ -1,16 +1,22 @@
-### Hi there 👋
+### OI, meu nome é Leo 😜
+**Habilidade Interpessoal**
 
-<!--
-**LeoRodrigues2024/LeoRodrigues2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✔️*Visão de Negócios* &nbsp;&nbsp;&nbsp;&nbsp; ✔️*Abertura para inovações*<br>
+✔️*Gestão de Projetos* &nbsp;&nbsp;&nbsp;&nbsp; ✔️*Pensamento Criativo* <br>
+✔️*Relacionamento interpessoal*  &nbsp;&nbsp;&nbsp;&nbsp; ✔️*Liderança* <br>
+✔️*Capacidade de questionamento*  &nbsp;&nbsp;&nbsp;&nbsp;✔️*Conhecimento técnico e intelectual* <br>
+✔️*Pensamento Analítico*
 
-Here are some ideas to get you started:
+Atuamente mais focado em..
+<div display="inline">
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"width="50"/>&nbsp;&nbsp;
+&nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/838fd0a0-33f6-4d8a-a4f0-f84a64a5e8ac" width="50"/>&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+Conhecimento adquiridos ...
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"width="50" />
+
+          
+          
+          

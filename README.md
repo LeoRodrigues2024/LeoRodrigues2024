@@ -40,7 +40,14 @@
 &nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/7c9678db-e07b-4c45-85c4-6693a8a214a3 width="80" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/4cefeb1c-284e-441e-aab8-b1e19ecede93 width="80" />&nbsp;&nbsp;
 
-
 </div> 
+
+### **Onde me encontrar :**
+<div display="inline">
+&nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/7a4c6605-5fd5-49fb-ac91-128e3c3999acwidth="120" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/8d916ba0-3356-44d9-bfd8-77b6abf03731width="120" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/d8e42a98-80da-4c04-bf56-2b75da21cd71width="120" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/cb20bc41-69be-4822-9279-43e3c1d765d3width="120" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/4aad04cd-49f1-4832-a59d-4144fd93c91awidth="120" />&nbsp;&nbsp;
           
-          
+</div>

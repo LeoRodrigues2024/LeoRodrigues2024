@@ -19,6 +19,8 @@
 
 </div>
 
+##
+
 #### **Conhecimento adquiridos ...**
 
 **Office**
@@ -28,6 +30,8 @@
 &nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/63b91539-91df-4e4d-b66e-aa8f899a480f width="150" />&nbsp;&nbsp;
 
 </div> 
+
+##
 
 **Sistema Operacional**
 
@@ -41,12 +45,3 @@
 &nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/4cefeb1c-284e-441e-aab8-b1e19ecede93 width="80" />&nbsp;&nbsp;
 
 </div> 
-
-### **Onde me encontrar :**
-<div display="inline">
-&nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/7a4c6605-5fd5-49fb-ac91-128e3c3999acwidth="120" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/d8e42a98-80da-4c04-bf56-2b75da21cd71width="120" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/cb20bc41-69be-4822-9279-43e3c1d765d3width="120" />&nbsp;&nbsp;
-
-          
-</div>

@@ -38,10 +38,6 @@
 <div display="inline">
 &nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/3b2299e6-8524-44fd-9a56-2158f3276b14 width="120" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"width="50" />
-&nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/379d4c50-f7b6-437a-863c-c4007c35d504 width="80" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/3a8f59de-0ebe-4116-938d-778aff42583b width="80" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/411b09c4-2d96-42ee-bf06-5e8f4eed76e9 width="80" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/7c9678db-e07b-4c45-85c4-6693a8a214a3 width="80" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src=https://github.com/LeoRodrigues2024/LeoRodrigues2024/assets/127344876/4cefeb1c-284e-441e-aab8-b1e19ecede93 width="80" />&nbsp;&nbsp;
+
 
 </div> 

@@ -42,6 +42,3 @@
 
 </div> 
 
-<a href="“wa.me/5511954103080”">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"width="50" />
-</a>
